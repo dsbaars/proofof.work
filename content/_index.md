@@ -1,9 +1,9 @@
 ---
 title: Yes, Bitcoin consumes a lot of energy
-description: Bitcoin consumes a lot of energy, but it isn't just something
+description: Bitcoin consumes a lot of energy, but that doesn't make it wasteful.
 ---
 
-But Bitcoin isn't just something. Before deciding yourself whether it is worth this energy, please put some energy in learning what "proof-of-work" actually is, and what you get in return.
+But that doesn't make it wasteful. Before deciding yourself whether it is worth this energy, please put some energy in learning what "proof-of-work" actually is, and what you get in return.
 
 There is a lot of misinformation about Bitcoin stated as "facts" or "research". Because Bitcoin is also complex, it is not surpising people stop educating themselves after hearing again and again it is supposedly boiling the oceans and facilitating criminals.
 
