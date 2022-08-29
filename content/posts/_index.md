@@ -5,5 +5,3 @@ menu:
   main:
     name: "Articles"
 ---
-
-I just started this website, so please be patient :)

@@ -1,6 +1,6 @@
 ---
-title: Bitcoin, not blockchain.
-date: 2022-08-30
+title: Bitcoin, not blockchain
+date: 2022-08-29
 description: 'Although Bitcoin was the first and oldest application, I was led to believe that it was blockchain which was the innovation, not Bitcoin.'
 ---
 
@@ -15,4 +15,4 @@ Both Bitcoin and Blockchain are technical concepts, which makes them different t
 It was only three years ago that I learned that Bitcoin, among other things, is about economics, game theory and politics. 
 I have been learning about Bitcoin since 2009 and I'm pretty sure I'm not even close to knowing everything.
 
-The past months I've learned that, just like me, a lot of people have misconceptions about Bitcoin. In this article I hope to help people understand Bitcoin better or at least be open to the fact that Bitcoin is different from what you hear or read in the media.
+The past months I've learned that, just like me, a lot of people have misconceptions about Bitcoin. In the following articles I hope to help people understand Bitcoin better or at least be open to the fact that Bitcoin is different from what you hear or read in the media.
